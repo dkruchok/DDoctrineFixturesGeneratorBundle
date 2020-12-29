@@ -17,6 +17,17 @@
     "migration"
   ],
   "license": "MIT",
+  "authors": [
+    {
+      "name": "dk",
+      "email": "test@mail.com"
+    }
+  ],
+  "support": {
+    "email": "test@mail.com",
+    "issue": "https://github.com/dkruchok/DDoctrineFixturesGeneratorBundle/issues",
+    "source": "https://github.com/dkruchok/DDoctrineFixturesGeneratorBundle"
+  },
   "require": {
     "php": ">=7.0",
     "symfony/framework-bundle": "*",
@@ -32,5 +43,5 @@
   "autoload": {
     "psr-0": {"Webonaute\\DoctrineFixturesGeneratorBundle": ""}
   },
-  "target-dir": "Webonaute/DoctrineFixturesGeneratorBundle",
+  "target-dir": "Webonaute/DoctrineFixturesGeneratorBundle"
 }
